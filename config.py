@@ -1,7 +1,7 @@
 # config.py
 
 class Config:
-    MYSQL_HOST = 'localhost'
-    MYSQL_USER = 'root'
-    MYSQL_PASSWORD = 'yourpassword'
-    MYSQL_DB = 'datafeeds'
+    MYSQL_HOST = "central.discoveryco.com"
+    MYSQL_USER = 'pkale'
+    MYSQL_PASSWORD = 'rtSuT7yG6RYB8mCV'
+    MYSQL_DB = 'pkale'
